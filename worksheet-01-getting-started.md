@@ -15,7 +15,7 @@ python3
 
 ## Section 2 - Moving the Turtle for the First Time
 1. Open the PythonTurtle window with the following commands (press `Enter` after each command):
-```bash
+```python
 import turtle
 turtle.reset()
 turtle.forward(100)
