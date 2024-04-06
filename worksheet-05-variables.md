@@ -1,4 +1,4 @@
-# Lesson 2 - It's Just a Box - Variables
+# Lesson 2 - It's Just a Box - Variables and Your Best Friend (Print)
 We are going to learn about variables and the print command.
 
 ## Section 1 - Start Python Terminal
@@ -25,7 +25,7 @@ What color is the square above?
 
 3. Another important command is the `print` command.  Modify the code to the following:
 ```python
-my_color = 'purple'
+my_color = 'blue'
 
 print(f'my color is {my_color}')
 for i in range(4):
@@ -41,3 +41,6 @@ What does the command `print` do?
 ## Section 4 - Mastery Checkup
 - What does the `print` command do?
 - What can you name your variables?
+
+abbey@wagnernwagner.com
+abbey@wagnernwagner.com

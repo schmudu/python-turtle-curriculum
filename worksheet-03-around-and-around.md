@@ -1,4 +1,4 @@
-# Lesson 2 - Around and Around
+# Lesson 3 - Around and Around
 We are going to learn about some loops and play with some colors
 
 ## Section 1 - Start Python Terminal

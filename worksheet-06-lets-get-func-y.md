@@ -1,5 +1,5 @@
 # Lesson 2 - Let's get Func-y
-We are going to learn about functions.
+We are going to learn about functions.  Functions are helpful when you want something to do it for you.
 
 ## Section 1 - Start Python Terminal
 Follow the directions from the previous lesson and start the Python command prompt.
